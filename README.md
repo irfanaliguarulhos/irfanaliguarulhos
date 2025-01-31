@@ -1,4 +1,4 @@
-
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 <h1>Data & Analytics Analyst | Data Scientist | Economist | Financial Analytics</h1>
 <p>Hi 👋, I am Irfan. A strategic and results-driven professional with over 10 years of experience translating complex data into actionable insights to drive business growth. Skilled in leveraging cutting-edge tools like Python, SQL, Power BI, Tableau, and machine learning algorithms to deliver data-centric solutions across diverse industries. Proven expertise in data visualization, wrangling, analysis, modeling, and forecasting to optimize performance and maximize revenue.</p>
 <h2>🚀 Languages and Tools I Use</h2>
