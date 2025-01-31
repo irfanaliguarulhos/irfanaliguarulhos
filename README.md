@@ -40,8 +40,6 @@
 <a target="_blank" href="undefinedhttps://medium.com/@irfanaliguarulhos" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a>
 <a target="_blank" href="https://www.youtube.com/https://www.youtube.com/@DataDrivenDynamics" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=irfanaliguarulhos&show_icons=true&locale=en" alt="irfanaliguarulhos" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irfanaliguarulhos&" alt="irfanaliguarulhos" /></p>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=irfanaliguarulhos&show_icons=true&locale=en&layout=compact" alt="irfanaliguarulhos" /></p>
 
 ![](https://github-readme-stats.vercel.app/api?username=irfanaliguarulhos&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=irfanaliguarulhos&theme=dark&hide_border=true)<br/>
