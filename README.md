@@ -1,4 +1,4 @@
-<img src="banner_github.png" alt="GitHub Banner" width="100%" />
+<img src="https://github.com/irfanaliguarulhos/irfanaliguarulhos/blob/main/Screenshot%202025-01-31%20130336.png" alt="GitHub Banner" width="100%" />
 <h1>Data & Analytics Analyst | Data Scientist | Economist | Financial Analytics</h1>
 <p>Hi 👋, I am Irfan. A strategic and results-driven professional with over 10 years of experience translating complex data into actionable insights to drive business growth. Skilled in leveraging cutting-edge tools like Python, SQL, Power BI, Tableau, and machine learning algorithms to deliver data-centric solutions across diverse industries. Proven expertise in data visualization, wrangling, analysis, modeling, and forecasting to optimize performance and maximize revenue.</p>
 <h2>🚀 Languages and Tools I Use</h2>
@@ -34,7 +34,7 @@
 <li><a target="_blank" href="https://www.youtube.com/@DataDrivenDynamics">Portfolio Site </a></li>
 <li><a target="_blank" href="https://www.linkedin.com/pulse/pizza-runner-end-to-end-project-using-mysql-basic-advanced-irfan-khan/?trackingId=o0ZffURwTy%2BGFtT4bKxfLA%3D%3D">Pizza Runner End-to-End Project using MySQL ( Basic to Advanced)</a></li>
 <li><a target="_blank" href="https://www.linkedin.com/pulse/analyzing-hr-data-insights-employee-demographics-trends-irfan-khan-s7icf/?trackingId=o0ZffURwTy%2BGFtT4bKxfLA%3D%3D">Analyzing HR Data Insights into Employee Demographics and Trends (Using MYSQL and PowerBI)</a></li>
-<h2>⚡️ Where to find me</h2>
+<h2>⚡️ Where to find me / Socials:</h2>
 <p><a target="_blank" href="https://twitter.com/@Irfankhana77" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
 <a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/irfan-khan-93b52b159" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="undefinedhttps://medium.com/@irfanaliguarulhos" style="display: inline-block;"><img src="https://img.shields.io/badge/medium-logo?style=for-the-badge&logo=medium&logoColor=white&color=black" alt="medium" /></a>
