@@ -44,4 +44,8 @@
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=irfanaliguarulhos&show_icons=true&locale=en&layout=compact" alt="irfanaliguarulhos" /></p>
 <p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=irfanaliguarulhos" alt="irfanaliguarulhos" /></a></p>
 
+![](https://github-readme-stats.vercel.app/api?username=irfanaliguarulhos&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=irfanaliguarulhos&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=irfanaliguarulhos&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 
